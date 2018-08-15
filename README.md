@@ -11,4 +11,13 @@
 - Добавлено текстовое поле для поиска
 
 ## Изменены и добавлены следующие файлы
-- Файл меню contextdelete.xml (если у вас нет папки menu в папке res, нажмите правой кнопкой мыши на папку res и выберите New -> Android Resource Directory, затем Resource Type выберите menu
+- Добавлен файл меню contextdelete.xml (если у вас нет папки menu в папке res, нажмите правой кнопкой мыши на папку res и выберите New -> Android Resource Directory, затем Resource Type выберите menu и потом нажимая правую кнопку в папке menu выберите New -> Menu Resource File)
+- Изменен макет master_fragment.xml
+- Изменен файл adapter_item.xml
+- Добавлен макет диалогового окна add_items.xml
+
+### Классы Java
+- Добавлен AddItemsDialog.java
+- Изменен Database.java
+- Изменен MasterFragment.java
+- Изменен MainActivity.java
